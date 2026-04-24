@@ -1,0 +1,7 @@
+let name = "Brock"
+print(name)
+
+var lastName = "harry"
+print(lastName)
+
+print("Brock stayed single!")

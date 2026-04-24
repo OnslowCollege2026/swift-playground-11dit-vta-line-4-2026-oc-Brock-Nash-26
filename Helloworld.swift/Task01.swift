@@ -1,0 +1,7 @@
+print ("N     N")
+Print ("NN    N")
+print ("N N   N")
+print ("N  N  N")
+print ("N   N N")
+print ("N    NN")
+print ("N     N")
